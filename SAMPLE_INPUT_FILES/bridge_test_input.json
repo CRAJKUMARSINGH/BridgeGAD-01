@@ -1,0 +1,14 @@
+{
+  "bridge_type": "beam",
+  "span_length": 50,
+  "bridge_width": 12,
+  "bridge_height": 20,
+  "material": "steel",
+  "number_of_spans": 1,
+  "pier_height": 15,
+  "abutment_type": "cantilever",
+  "foundation_type": "spread",
+  "design_load": 45,
+  "skew_angle": 0,
+  "description": "Test bridge for BridgeGAD-01 application"
+}

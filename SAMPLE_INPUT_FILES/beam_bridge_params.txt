@@ -1,0 +1,18 @@
+# Bridge GAD Application Sample Inputs
+# Created: September 16, 2025
+# Author: Rajkumar Singh Chauhan
+
+# Beam Bridge Test Parameters
+bridge_type: beam
+span_length: 50.0
+deck_width: 12.0
+height: 20.0
+supports: 1
+load_capacity: 50.0
+material: steel
+
+# Geometric Parameters
+approach_length: 50.0
+foundation_depth: 5.0
+girder_depth: 2.0
+rail_height: 1.2

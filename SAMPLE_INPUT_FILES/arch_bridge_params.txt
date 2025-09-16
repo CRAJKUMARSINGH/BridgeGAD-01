@@ -1,0 +1,12 @@
+# Arch Bridge Test Parameters
+bridge_type: arch
+span_length: 100.0
+deck_width: 16.0
+height: 30.0
+supports: 0
+load_capacity: 100.0
+material: concrete
+approach_length: 80.0
+foundation_depth: 8.0
+girder_depth: 2.5
+rail_height: 1.2
